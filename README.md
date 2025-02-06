@@ -1,6 +1,6 @@
 Analyzing User Engagement and Content Strategy on YouTube 
 
-Contributers: Fadil Meraj, Aleem Khan, Jalaja Shanmugalingam, Rhythm Balooni, Shabiba Shahjahan, Tanajj Ahmed
+Contributors: Fadil Meraj
 
 The primary problem addressed in this project revolves around optimizing content strategy and enhancing user engagement on YouTube, a platform with over 2.70 billion users​​.
 Despite its vast user base, content creators often face challenges in effectively engaging their audience and growing their channels. To address this, the project aims to test several hypotheses using data available through the YouTube API: 
